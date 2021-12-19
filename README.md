@@ -10,3 +10,15 @@ A simple Whack-a-mole game created with HTML, CSS and Javascript based on a begi
 * CSS
 * JavaScript
 
+#### How to use/run this code:
+
+* Clone the repository
+
+or
+
+* To execute the project, open the html file with your browser
+
+#### Additional info
+
+Thanks to Ania Kubow for the tutorial.
+I learned a lot =)
