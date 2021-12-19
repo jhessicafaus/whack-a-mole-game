@@ -1,4 +1,5 @@
-const timeLeft = document.querySelector('#time-left') // .getElementById can also be used, but with .querySelector it's possible to use CSS selectors
+const timeLeft = document.querySelector('#time-left') 
+// .getElementById can also be used above, but with .querySelector it's possible to use CSS selectors
 const scoreDisplay = document.querySelector('#score')
 const squares = document.querySelectorAll('.square')
 
