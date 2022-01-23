@@ -10,13 +10,12 @@ A simple Whack-a-mole game created with HTML, CSS and Javascript based on a begi
 * CSS
 * JavaScript
 
-#### How to use/run this code:
+#### Launch:
+https://jhessicafaus.github.io/whack-a-mole-game/
+
+### Run/edit
 
 * Clone the repository
-
-or
-
-* To execute the project, open the html file with your browser
 
 #### Additional info
 
